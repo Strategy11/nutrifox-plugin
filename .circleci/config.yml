@@ -61,7 +61,7 @@ jobs:
       - run:
           name: "Install Extras"
           command: |
-            sudo apt-get update
+            sudo apt-get update --allow-releaseinfo-change
             sudo apt-get install subversion
             sudo apt-get install -y libmagickwand-dev --no-install-recommends
             yes '' | sudo pecl install imagick || true
