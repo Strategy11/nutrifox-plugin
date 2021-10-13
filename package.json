@@ -4,7 +4,7 @@
   "main": "Gruntfile.js",
   "author": "Pinch of Yum",
   "devDependencies": {
-    "@babel/core": "^7.15.5",
+    "@babel/core": "^7.15.8",
     "@babel/preset-env": "^7.15.6",
     "@wordpress/eslint-plugin": "9.1.2",
     "babel-loader": "^8.2.2",
