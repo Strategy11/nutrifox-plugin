@@ -5,7 +5,7 @@
   "author": "Pinch of Yum",
   "devDependencies": {
     "@babel/core": "^7.16.7",
-    "@babel/preset-env": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
     "@wordpress/eslint-plugin": "9.3.0",
     "babel-loader": "^8.2.3",
     "babel-plugin-transform-react-jsx": "^6.24.1",
