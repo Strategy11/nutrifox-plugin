@@ -7,7 +7,7 @@
     "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",
     "@wordpress/eslint-plugin": "9.3.0",
-    "babel-loader": "^8.2.4",
+    "babel-loader": "^8.2.5",
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "cross-env": "^7.0.3",
     "eslint": "^7.32.0",
